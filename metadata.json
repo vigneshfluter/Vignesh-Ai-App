@@ -1,0 +1,5 @@
+{
+  "name": "Vignesh Ai app",
+  "description": "An intuitive web application that leverages the Gemini API to allow users to upload their images and apply powerful edits and enhancements using simple text prompts. Experience the future of AI-powered image editing.",
+  "requestFramePermissions": []
+}
